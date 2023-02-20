@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+# Fam_Salari
+*.amiresalari
